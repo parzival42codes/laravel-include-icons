@@ -13,5 +13,4 @@ class Icon
     {
         return '<i class="fa-'.$type.' fa-'.$icon.'"></i>';
     }
-
 }
